@@ -1,0 +1,40 @@
+
+;; ----- smex-history -----
+(
+ replace-regexp
+ ag
+ anaconda-mode
+ package-autoremove
+ package-list-packages
+ auto-complete-mode
+ kill-some-buffers
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 11)
+ (package-list-packages . 34)
+ (grep-find . 1)
+ (ag . 426)
+ (kill-some-buffers . 2)
+ (name-last-kbd-macro . 2)
+ (insert-kbd-macro . 3)
+ (text-mode . 7)
+ (js2-mode . 17)
+ (flycheck-mode . 1)
+ (replace-regexp . 207)
+ (align-regexp . 19)
+ (erase-buffer . 1)
+ (Buffer-menu-delete . 1)
+ (clean-buffer-list . 3)
+ (revert-buffer-with-coding-system . 1)
+ (string-insert-rectangle . 2)
+ (horizontal-scroll-bar-mode . 2)
+ (menu-bar-mode . 29)
+ (desktop-save . 3)
+ (js-mode . 3)
+ (js-jsx-mode . 1)
+ (auto-complete-mode . 1)
+ (package-autoremove . 1)
+ (anaconda-mode . 1)
+)

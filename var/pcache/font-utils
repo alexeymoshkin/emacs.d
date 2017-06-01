@@ -1,0 +1,7 @@
+;; Object font-utils
+;; EIEIO PERSISTENT OBJECT
+(pcache-repository "font-utils"
+  :file "font-utils"
+  :version "0.3"
+  :entries #s(hash-table size 65 test eql rehash-size 1.5 rehash-threshold 0.8 data (checksum-x [object pcache-entry "pcache-entry" 1440055451.5951955 7776000 nil] font-names-x [object pcache-entry "pcache-entry" 1440055451.5952866 7776000 nil]))
+  :timestamp 1440055451.5953424)
