@@ -1,2 +1,4 @@
 session.*
 image_dired/
+.session*
+.smex-items*
