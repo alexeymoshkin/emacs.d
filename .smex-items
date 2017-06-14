@@ -1,18 +1,18 @@
 
 ;; ----- smex-history -----
 (
+ emmet-mode
+ clean-buffer-list
+ package-install
  replace-regexp
  ag
  anaconda-mode
  package-autoremove
- package-list-packages
- auto-complete-mode
- kill-some-buffers
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 11)
+ (package-install . 13)
  (package-list-packages . 34)
  (grep-find . 1)
  (ag . 426)
@@ -26,7 +26,7 @@
  (align-regexp . 19)
  (erase-buffer . 1)
  (Buffer-menu-delete . 1)
- (clean-buffer-list . 3)
+ (clean-buffer-list . 4)
  (revert-buffer-with-coding-system . 1)
  (string-insert-rectangle . 2)
  (horizontal-scroll-bar-mode . 2)
@@ -37,4 +37,5 @@
  (auto-complete-mode . 1)
  (package-autoremove . 1)
  (anaconda-mode . 1)
+ (emmet-mode . 1)
 )
